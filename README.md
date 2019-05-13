@@ -6,5 +6,3 @@ This is my first time editing something on GitHub, it doesn't seem that hard. Ma
 Cheerio.
 
 /Robin
-A line I wrote on my local computer
-Another commit, but how on earth does linebreaks work here?
